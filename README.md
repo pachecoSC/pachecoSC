@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ```js
 const pachecoSC = {
   Nombre: "Pacheco Sarango, Christian H.",
-  País de residencia : "PERÚ",
+  Residencia : "PERÚ",
   Lenguajes: ["JavaScript", "HTML", "CSS", "C#", "PHP","JAVA"],
   Herramientas: ["React", "Node.js", "SQLServer","MySQL", "Firebase", "Cordova"],
   links: [{
