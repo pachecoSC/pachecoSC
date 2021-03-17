@@ -27,7 +27,7 @@ const pachecoSC = {
   Lenguajes: ["JavaScript", "HTML", "CSS", "C#", "PHP","JAVA"],
   Herramientas: ["React", "Node.js", "SQLServer","MySQL", "Firebase", "Cordova"],
   links: [{
-    instagram: "https://instagram.com/pacheco_chris",
+    instagram: "https://instagram.com/pachecoschris",
     facebook:"https://fb.com/pachecoschris"
   }],
 }
